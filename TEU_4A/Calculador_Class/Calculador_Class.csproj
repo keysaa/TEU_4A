@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{46D2B986-6473-4146-B403-1B7A7ED797DF}</ProjectGuid>
+    <ProjectGuid>{C2BC0EC8-1A7B-406B-B83E-79D9268E286B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>pruebaGit</RootNamespace>
-    <AssemblyName>pruebaGit</AssemblyName>
+    <RootNamespace>Calculador_Class</RootNamespace>
+    <AssemblyName>Calculador_Class</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
