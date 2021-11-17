@@ -1,0 +1,10 @@
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\bin\Debug\trabajoenclase17112021.exe.config
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\bin\Debug\trabajoenclase17112021.exe
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\bin\Debug\trabajoenclase17112021.pdb
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.csproj.AssemblyReference.cache
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.Form1.resources
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.Properties.Resources.resources
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.csproj.GenerateResource.cache
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.csproj.CoreCompileInputs.cache
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.exe
+C:\Users\52554\source\repos\trabajoenclase17112021\trabajoenclase17112021\obj\Debug\trabajoenclase17112021.pdb
