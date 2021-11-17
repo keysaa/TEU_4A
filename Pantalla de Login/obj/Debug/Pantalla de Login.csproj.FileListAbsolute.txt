@@ -1,0 +1,10 @@
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\bin\Debug\Pantalla de Login.exe.config
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\bin\Debug\Pantalla de Login.exe
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\bin\Debug\Pantalla de Login.pdb
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla de Login.csproj.AssemblyReference.cache
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla_de_Login.Form1.resources
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla_de_Login.Properties.Resources.resources
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla de Login.csproj.GenerateResource.cache
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla de Login.csproj.CoreCompileInputs.cache
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla de Login.exe
+C:\Users\MiFamilia\Desktop\VISUAL\Pantalla de Login\Pantalla de Login\obj\Debug\Pantalla de Login.pdb
